@@ -1,0 +1,68 @@
+[
+  {
+    "provider_id": "PRV-001",
+    "provider_name": "General Practice \u2013 Riverside Clinic",
+    "week": "2025-01-27",
+    "claim_count": 189,
+    "expected_mean": 119.8,
+    "z_score": 3.57,
+    "ratio_to_mean": 1.58,
+    "risk_level": "MEDIUM",
+    "recommended_action": "Flag for prepayment clinical review; request supporting documentation"
+  },
+  {
+    "provider_id": "PRV-002",
+    "provider_name": "Cardiology Associates",
+    "week": "2025-06-02",
+    "claim_count": 127,
+    "expected_mean": 61.5,
+    "z_score": 4.22,
+    "ratio_to_mean": 2.07,
+    "risk_level": "HIGH",
+    "recommended_action": "Escalate to FWA (Fraud, Waste & Abuse) team for full audit"
+  },
+  {
+    "provider_id": "PRV-003",
+    "provider_name": "Orthopedics of the Valley",
+    "week": "2025-06-23",
+    "claim_count": 364,
+    "expected_mean": 168.6,
+    "z_score": 3.36,
+    "ratio_to_mean": 2.16,
+    "risk_level": "MEDIUM",
+    "recommended_action": "Flag for prepayment clinical review; request supporting documentation"
+  },
+  {
+    "provider_id": "PRV-003",
+    "provider_name": "Orthopedics of the Valley",
+    "week": "2025-06-30",
+    "claim_count": 342,
+    "expected_mean": 168.6,
+    "z_score": 2.98,
+    "ratio_to_mean": 2.03,
+    "risk_level": "LOW",
+    "recommended_action": "Monitor for recurrence; log in anomaly registry"
+  },
+  {
+    "provider_id": "PRV-004",
+    "provider_name": "Sunrise Family Medicine",
+    "week": "2025-04-14",
+    "claim_count": 274,
+    "expected_mean": 114.0,
+    "z_score": 4.03,
+    "ratio_to_mean": 2.4,
+    "risk_level": "HIGH",
+    "recommended_action": "Escalate to FWA (Fraud, Waste & Abuse) team for full audit"
+  },
+  {
+    "provider_id": "PRV-005",
+    "provider_name": "FraudAlert Specialty Group",
+    "week": "2025-06-09",
+    "claim_count": 615,
+    "expected_mean": 195.9,
+    "z_score": 2.82,
+    "ratio_to_mean": 3.14,
+    "risk_level": "MEDIUM",
+    "recommended_action": "Flag for prepayment clinical review; request supporting documentation"
+  }
+]
